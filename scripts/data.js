@@ -30,5 +30,23 @@ const data = {
       prereqs: [159],
       credits: 3,
     },
+    {
+      prefix: "CS",
+      number: 347,
+      title: "Application Development",
+      url: "https://catalog.jmu.edu/content.php?filter%5B27%5D=CS&filter%5B29%5D=347&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=50&expand=&navoid=2576&search_database=Filter#acalog_template_course_filter",
+      desc: "This course covers design and development of World Wide Web applications. Students examine protocols, architectures, development languages and facilities, and issues such as accessibility, usability, security and reliability. Students work with a suite of development tools and languages to construct a client or server application that includes a GUI and a database.",
+      prereqs: [159],
+      credits: 3,
+    },
+    {
+      prefix: "CS",
+      number: 447,
+      title: "Interaction Design",
+      url: "https://catalog.jmu.edu/content.php?filter%5B27%5D=CS&filter%5B29%5D=&filter%5Bcourse_type%5D=-1&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=50&expand=&navoid=2576&search_database=Filter#",
+      desc: "Study of and practice with processes, principles, tools, models and techniques for designing interactions between humans and digital products and systems. Topics include physiological and psychological factors affecting interaction design, interaction design processes, interaction models, styles and paradigms, design notations and representations, prototyping, and interaction design evaluation.",
+      prereqs: [343],
+      credits: 3,
+    },
   ],
 };
